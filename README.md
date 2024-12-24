@@ -66,27 +66,8 @@ The goal of this project is to predict maximum daily temperature (`Temp_Max`) ba
 
 ---
 
-### **How to Run the Project**
-
-1. Clone the repository and navigate to the project directory:
-   ```bash
-   git clone <repository_url>
-   cd weather_prediction_project
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook to explore the data and train the model.
-
-4. Visualizations and evaluation results are generated automatically and saved as images in the `output` directory.
-
----
-
 ### **References**
-- **Dataset Source:** Toronto Weather Data from [[Data Repository/Source Name](https://www.ncdc.noaa.gov/cdo-web/search)].
+- **Dataset Source:** Toronto Weather Data from [[Climate Data](https://www.ncdc.noaa.gov/cdo-web/search)].
 - **Libraries Used:** Pandas, Scikit-learn, Matplotlib, NumPy.
 - **Model Reference:** Ridge Regression from Scikit-learn documentation.
 
